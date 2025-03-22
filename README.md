@@ -1,2 +1,2 @@
 # Chatting-Application
-A simple chat application made using C++
+A chat application made using C++
